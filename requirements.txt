@@ -1,0 +1,7 @@
+google-adk==1.14.0
+google-cloud-logging
+python-dotenv
+langchain-community==0.2.16
+langchain==0.2.16
+langchain-core==0.2.38
+wikipedia
